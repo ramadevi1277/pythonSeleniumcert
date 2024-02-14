@@ -13,10 +13,10 @@ driver.get("https://www.yatra.com/")
 
 driver.implicitly_wait(5)
 
-driver.find_element(By.CSS_SELECTOR, "#BE_flight_origin_city").click()
+driver.find_element(By.CSS_SELECTOR, "#BE_flight_origsin_city").click()
 
 
-#input = driver.find_elements(By.XPATH, "//div[@class='ac_results origin_ac']//li//p[@class='ac_airportname']")
+input = driver.find_elements(By.XPATH, "//div[@class='ac_results origin_ac']//li//p[@class='ac_airportname']")
 input = driver.find_elements(By.XPATH, "//div[@class='ac_results origin_ac']//ul")
 
 
