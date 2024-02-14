@@ -1,0 +1,17 @@
+1702557296383	geckodriver	INFO	Listening on 127.0.0.1:55529
+1702557299432	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55530" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RCHEEP~1\\AppData\\Local\\Temp\\rust_mozprofileQYbtcW"
+1702557340831	geckodriver	INFO	Listening on 127.0.0.1:55607
+1702557343875	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RCHEEP~1\\AppData\\Local\\Temp\\rust_mozprofileZWwhRv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702557344255	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702557344398	Marionette	INFO	Listening on port 55619
+WebDriver BiDi listening on ws://127.0.0.1:55608
+Read port: 55619
+1702557344468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55608/devtools/browser/a8a44220-d330-4efe-89f5-7db08ca6d2ca
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1702557358885	Marionette	INFO	Stopped listening on port 55619
+Dynamically enable window occlusion 1
