@@ -1,3 +1,7 @@
 #Auto Generate Tool for the python selenium
 
 https://chromewebstore.google.com/detail/selenium-auto-code-genera/ocimgcpcnobcnmclomhhmjidgoiekeaf?pli=1
+
+
+#easy httpAPI tests
+https://github.com/slaily/pyhttptest/tree/master
