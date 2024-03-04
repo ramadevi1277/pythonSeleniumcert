@@ -44,8 +44,9 @@ with SB(uc=True, headless=False) as sb:
 
     # Login
     sb.wait_for_element_visible("#signInName", timeout=30)
-    sb.type("#signInName", "SHIRAJ FATWANI")
-    sb.type("#password", "Fatwani@1983")
+    sb.type("#signInName", "")
+    sb.type("#password", "")
+
     #time.sleep(60)
     #expected_title = "Visa Application Home · Customer Self-Service"
     #sb.assert_title(expected_title)
